@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "SEGMiddleware.h"
+#import "../Middlewares/SEGMiddleware.h"
 
 /**
  * Filenames of "Application Support" files where essential data is stored.
